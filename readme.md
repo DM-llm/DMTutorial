@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e553cf84-8d25-4cd0-baaf-b3ce59d6e348)
+
 # Lagent 自定义你的 Agent 智能体
 ## Agent介绍
 智能体，即Agent，是一种能自主规划，完成人类所指定的任务的AI工具
